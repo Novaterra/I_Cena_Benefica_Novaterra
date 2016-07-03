@@ -1,6 +1,8 @@
 # Project Name
 NOVATERRA ONG
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/I_Cena_Benefica_Novaterra/master/invitacion.png" width="600"/>
+</p>
 DISEÑO GRAFICO: Cartel invitacin y folleto 1ª cena benefica Fundacion Novaterra 2015
 
 ## REALIZADO CON
